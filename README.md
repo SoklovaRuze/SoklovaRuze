@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SoklovaRuze
+- 👀 I’m interested in C.S and software development
